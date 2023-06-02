@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: ColoursofOSINT
 
 # Your name to show in the footer
-author: Some Person
+author: ColoursofOSINT
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "This is my personal profile. I am a student intrested in OSINT, open-souce and cyberseurity."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
