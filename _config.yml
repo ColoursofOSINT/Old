@@ -48,7 +48,9 @@ social-network-links:
 #  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
+  Github: [ColoursofOSINT](github.com/ColoursofOSINT)
+  Gitlab: [ColoursofOSINT](github.com/ColoursofOSINT)
+  Mastodon: [ColoursofOSINT](github.com/ColoursofOSINT)
  # twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -90,7 +92,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
